@@ -6,7 +6,7 @@ export default component$(() => {
 
   return (
     <footer>
-      I AM THE FOOTER
+      Currently in development. 2023 ♥
     </footer>
   );
 });

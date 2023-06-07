@@ -6,8 +6,6 @@ export default component$(() => {
   
   return (
     <div class="layout">
-      
-      I AM THE LAYOUT
 
       <Header />
 

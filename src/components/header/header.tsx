@@ -6,9 +6,10 @@ export default component$(() => {
 
   return (
     <header>
+      <title>Decimal Pointe | An Incremental Game</title>
       <div class="logo">
         
-          <h3><a href="/">HEADER LOGO</a></h3>
+          <h3><a href="/">Decimal Pointe</a></h3>
         
       </div>
       <ul>
